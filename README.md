@@ -1,1 +1,2 @@
 # Conquering-Responsive-Layouts-by-Kevin-Powell-21-Days-Challenge-
+Day 1 Challenge 1: Learnt that html is responsive even without css, may not be the best looking but it is responsive and it is the css that we write that in turn causes issues with our web page being responsive. Never use fixed height and widths as it will force the content to overflow on certain screen sizes. It is best to use width percentages and resist having certain defined width for content containers
