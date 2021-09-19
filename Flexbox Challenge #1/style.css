@@ -47,6 +47,7 @@ section {
     background: #136C72;
 }
 
+.colored-section .row .col,
 .colored-section .row .col h2  {
     color: #fff;
 }
