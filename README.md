@@ -21,5 +21,7 @@ Learnt that em should not be used for font sizes as it could bring things very e
 Looked at Kevin's solution, he had more easy going approach by setting certain predefined witdhs for max-width and stuff where as I tried to tackle is using viewport units and min function for font-sizes with viewport units for font-sizes as well, using min to cap the maximum size it can grow to. 
 
 ## Day 8 Flexbox Challenge 1: 
-Learned about the basics of flexbox, that is, how flexbox container and flex items behave. The default flex direction is row and than flex items are shrink to the minimum##  width possible by default. Gap 
-between flex items can be specified using gap property as it is supported by most browsers now. Further the challenge was just putting to use the above knowledge of flexbox creating a layout for desktop only right now
+Learned about the basics of flexbox, that is, how flexbox container and flex items behave. The default flex direction is row and than flex items are shrink to the minimum width possible by default. Gap between flex items can be specified using gap property as it is supported by most browsers now. Further the challenge was just putting to use the above knowledge of flexbox creating a layout for desktop only right now
+
+## Day 9 Flexbox Challenge 2: 
+Added image to the hero section by wrapping it in a div so that it does not get stretched being a flexed item. Created a two column layout where the 2nd column has a flex direction of column. Learned more about using flex and how to make one column bigger than the other.
