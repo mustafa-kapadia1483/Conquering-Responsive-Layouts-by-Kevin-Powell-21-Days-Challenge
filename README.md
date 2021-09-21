@@ -25,3 +25,10 @@ Learned about the basics of flexbox, that is, how flexbox container and flex ite
 
 ## Day 9 Flexbox Challenge 2: 
 Added image to the hero section by wrapping it in a div so that it does not get stretched being a flexed item. Created a two column layout where the 2nd column has a flex direction of column. Learned more about using flex and how to make one column bigger than the other.
+
+## Day 10 No Challenger:
+Learnt more about display flex properties like flex flow, grow, shrink. Mostly the ins and outs of flexbox.
+
+## Day 11 Flexbox Challenge 3:
+Navbar alignment using flex box. It is very easy to align the navbar for wide screens using display flex and gap property.
+
