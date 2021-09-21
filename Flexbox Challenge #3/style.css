@@ -131,3 +131,18 @@ header {
     color: #fff;
     background-color: #136c72;
 }
+
+
+/* Start of Nav */
+
+.nav__list {
+    display: flex;
+    padding-block: 0.5em;
+    column-gap: 1em;
+}
+
+.nav__link {
+    font-size: 1rem;
+}
+
+/* End of Nav */
