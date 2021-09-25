@@ -1,0 +1,119 @@
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-font: 'Roboto', sans-serif;
+    --secondary-font: 'Playfair Display', serif;
+    --primary-color: #824936;
+    --secondary-color: #F3EED9;
+    --dark-bg-color: #222C2A;
+}
+
+body {
+    font-size: 1.3rem;
+}
+
+header {
+    background: var(--secondary-color);
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 1128px;
+    margin: 0 auto;
+}
+
+.light-heading {
+    color: var(--secondary-color);
+}
+
+.d-flex {
+    display: flex;
+}
+
+.text-centered {
+    text-align: center;
+}
+
+.dark-background {
+    background: var(--dark-bg-color);
+}
+
+.hero {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 2em;
+}
+
+.hero__small-heading,
+.hero__main-heading {
+    text-align: center;
+}
+
+.hero .hero__small-heading {
+    font-family: var(--primary-font);
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+    font-size: min(1.1rem, 2vmax);
+    font-weight: 300;
+}
+
+.hero .hero__main-heading {
+    font-family: var(--secondary-font);
+    font-size: min(4rem, 8.5vmin);
+    font-weight: 900;
+}
+
+.section__heading {
+    font-size: 2.3rem;
+    font-family: var(--secondary-font);
+    font-weight: 700;
+    margin-bottom: 1em;
+}
+
+section > .container {
+    padding: 4em 0;
+}
+
+.paras-container {
+    display: flex;
+    gap: 3em;
+    justify-content: space-between;
+}
+
+p {
+    font-size: 1.2rem;
+    font-family: var(--primary-font);
+    line-height: 1.5;
+}
+
+img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.col-alt-section:nth-child(odd) {
+    background: var(--dark-bg-color);
+}
+
+.col-alt-section:nth-child(even) {
+    background: var(--primary-color);
+}
+
+.col-alt-section:nth-child(even) .container .col + .col {
+    order: -1;
+}
+
+.col-alt-section > .container {
+    justify-content: space-between;
+    gap: 3em;
+}
+
+.col-alt-section > .container > .col {
+    flex: 1 1 50%; 
+}

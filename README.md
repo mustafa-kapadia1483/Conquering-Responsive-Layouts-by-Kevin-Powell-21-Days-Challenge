@@ -32,3 +32,6 @@ Learnt more about display flex properties like flex flow, grow, shrink. Mostly t
 ## Day 11 Flexbox Challenge 3:
 Navbar alignment using flex box. It is very easy to align the navbar for wide screens using display flex and gap property.
 
+## Day 12 Flexbox Challenge 4:
+Landing Page creation challenge for desktop size. Learnt how to use flex grow and shrink effectively also how to make alternating cloumns layout by styling even and odd through nth-of-child differently and modifiying the order property of the flex items. Made the header responsive using vmin and vmax units for font-sizes.
+
