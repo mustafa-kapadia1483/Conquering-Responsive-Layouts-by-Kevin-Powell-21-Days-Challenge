@@ -35,3 +35,6 @@ Navbar alignment using flex box. It is very easy to align the navbar for wide sc
 ## Day 12 Flexbox Challenge 4:
 Landing Page creation challenge for desktop size. Learnt how to use flex grow and shrink effectively also how to make alternating cloumns layout by styling even and odd through nth-of-child differently and modifiying the order property of the flex items. Made the header responsive using vmin and vmax units for font-sizes.
 
+## Day 13/14 No Challenge:
+No challenge or course videos, saw the max(), min(), clamp() functionality in Kevin's YouTube videos. When and how to use them effectively in css for creating responsive layouts.
+
