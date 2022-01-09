@@ -38,3 +38,6 @@ Landing Page creation challenge for desktop size. Learnt how to use flex grow an
 ## Day 13/14 No Challenge:
 No challenge or course videos, saw the max(), min(), clamp() functionality in Kevin's YouTube videos. When and how to use them effectively in css for creating responsive layouts.
 
+
+## Day 15 No Challenge:
+Introduction to Media queries and how min-width and max-width can be used for creating either mobile first or desktop first web experiences. There are many types for media queries which can be specified but the most used one is screen for changing styles of the webpage based on the width of the page. No challenge.
