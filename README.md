@@ -40,4 +40,4 @@ No challenge or course videos, saw the max(), min(), clamp() functionality in Ke
 
 
 ## Day 15 No Challenge:
-Introduction to Media queries and how min-width and max-width can be used for creating either mobile first or desktop first web experiences. There are many types for media queries which can be specified but the most used one is screen for changing styles of the webpage based on the width of the page. No challenge.
+Introduction to Media queries and how min-width and max-width can be used for creating either mobile first or desktop first web experiences. There are many types for media queries which can be specified but the most used one is screen for changing styles of the webpage based on the width of the page. Also media queries should be placed at the end of the css file so that it can override the previous styles. No challenge.
