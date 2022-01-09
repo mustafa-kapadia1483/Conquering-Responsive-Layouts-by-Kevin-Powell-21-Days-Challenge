@@ -38,6 +38,8 @@ Landing Page creation challenge for desktop size. Learnt how to use flex grow an
 ## Day 13/14 No Challenge:
 No challenge or course videos, saw the max(), min(), clamp() functionality in Kevin's YouTube videos. When and how to use them effectively in css for creating responsive layouts.
 
-
 ## Day 15 No Challenge:
 Introduction to Media queries and how min-width and max-width can be used for creating either mobile first or desktop first web experiences. There are many types for media queries which can be specified but the most used one is screen for changing styles of the webpage based on the width of the page. Also media queries should be placed at the end of the css file so that it can override the previous styles. No challenge.
+
+## Day 16 No Challenge:
+1st video focusses on deciding the breakpoints to be used for media queries, like how to determine what breakpoints are to be used. Kevin says that instead at looking at breakpoints from the point of bootstrap or specific sizes of devices, apply breakpoints where you think the current layout is breaking, looking odd, etc. You choose a breakpoint where you think the current element structure is either breaking or not making sense when viewed at that width. Dev tools are very beneficial in determining this thing as using it one can play with different screen sizes and how does your layout look at certain screen sizes. Some components may look proper at different screen sizes whereas some may outright not make any sense and look out of place, such components can be fixed for that screen size using breakpoints.Most simple layours can be made using only media query breakpoint but depends on how complex the design really is. The fcc link provides good info for basic breakpoints and can be used as reference when developing sites.
