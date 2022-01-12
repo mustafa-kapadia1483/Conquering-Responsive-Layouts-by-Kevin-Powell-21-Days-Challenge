@@ -50,3 +50,6 @@ Media viewport tag is disccused on day 17. It sets the initial scale of zoom of 
 ## Day 18 No Challenge:
 Kevin shows the solution to flexbox challenge 4
 
+## Day 19 Nav Challenge:
+The challenge was to design a responsive nav, the design for how the nav should look in mobile was given by kevin and how the desktop version should look was open to us. Completed the challenge, which gave me confidence as to how to read other's code base and make effective changes to it.
+
