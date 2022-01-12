@@ -46,3 +46,7 @@ Introduction to Media queries and how min-width and max-width can be used for cr
 
 ## Day 17 No Challenge:
 Media viewport tag is disccused on day 17. It sets the initial scale of zoom of the page, which is usually to 1.0 so that there is no weird behaviour. It also helps the browser implement media queries which would not be possible without viewport meta tag.
+
+## Day 18 No Challenge:
+Kevin shows the solution to flexbox challenge 4
+
