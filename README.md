@@ -75,3 +75,7 @@ The challenge was to design a responsive nav, the design for how the nav should 
 ## Day 20:
 
 Kevin shows the solution for the nav challenge
+
+## Day 21 Final Challenge:
+
+The final challenge was to develop a responsive site as given in the mockup provided by Kevin. The challenge was quite awesome as I got to learn a lot about responsive typography and how we can use different flex values to change flexbox layouts easily to get it to be responsive to the screen size.

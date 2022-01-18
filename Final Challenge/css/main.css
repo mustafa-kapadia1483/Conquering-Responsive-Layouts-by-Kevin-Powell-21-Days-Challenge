@@ -135,6 +135,58 @@ aside .card:last-child {
   font-size: min(2.2vmax, 1.1rem);
 }
 
+/* Footer */
+.footer {
+  background-color: var(--dark-blue);
+  padding: 3rem 0;
+}
+
+.footer > .title {
+  margin-bottom: 2em;
+  font-size: min(6vmax, 3rem);
+  color: #fff;
+  text-align: center;
+}
+
+.blocks {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.block {
+  max-width: 50%;
+}
+
+.block > .title {
+  font-size: min(3vmax, 1.5rem);
+  margin-bottom: 0.6em;
+}
+
+.block p,
+.block ul {
+  margin-bottom: 2.5em;
+}
+
+.block ul {
+  list-style-type: none;
+}
+
+.block ul li {
+  margin-bottom: 1em;
+}
+
+.block p {
+  color: #afafaf;
+  max-width: 80%;
+}
+
+.block ul li a {
+  text-decoration: none;
+  color: #afafaf;
+  font-family: var(--alt-font-family);
+}
+
 /* Desktop @700px */
 @media screen and (min-width: 700px) {
   aside.col-2 {
@@ -183,5 +235,10 @@ aside .card:last-child {
 
   aside .card {
     margin-bottom: 2rem;
+  }
+
+  /* footer */
+  .blocks {
+    column-gap: 4rem;
   }
 }
